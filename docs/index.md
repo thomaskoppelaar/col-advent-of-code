@@ -10,13 +10,11 @@ Each day of december, a new challenge will be posted here. For each challenge yo
 
 The milestones are as follows:
 ```
-30/31 complete: 500 points
-
-25 complete: 400 points
+25 complete: 500 points
 
 20 complete: 300 points
 
-10 complete: 200 points
+10 complete: 150 points
 
 5 complete: 50 points
 
