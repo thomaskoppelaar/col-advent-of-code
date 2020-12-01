@@ -42,7 +42,7 @@ Rules for submission:
 ## Challenges:
 Every challenge will be added at roughly 12:00AM UTC+0 - ping `waterboi.#8134` in tech-club if he forgets to do so.
 
-Day 1 - Unavailable
+Day 1 - [here](1.md)
 
 Day 2 - Unavailable
 
