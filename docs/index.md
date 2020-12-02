@@ -44,7 +44,7 @@ Every challenge will be added at roughly 12:00AM UTC+0 - ping `waterboi.#8134` i
 
 Day 1 - [here](1.md)
 
-Day 2 - Unavailable
+Day 2 - [here](2.md)
 
 Day 3 - Unavailable
 
