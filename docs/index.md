@@ -46,7 +46,7 @@ Day 1 - [here](1.md)
 
 Day 2 - [here](2.md)
 
-Day 3 - Unavailable
+Day 3 - [here](3.md)
 
 Day 4 - Unavailable
 
