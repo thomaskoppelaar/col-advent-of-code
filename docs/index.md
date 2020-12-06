@@ -52,7 +52,7 @@ Day 4 - [here](4.md)
 
 Day 5 - [here](5.md)
 
-Day 6 - Unavailable
+Day 6 - [here](6.md)
 
 Day 7 - Unavailable
 
