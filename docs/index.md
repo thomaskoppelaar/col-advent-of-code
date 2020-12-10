@@ -60,7 +60,7 @@ Day 8 - [here](8.md)
 
 Day 9 - [here](9.md)
 
-Day 10 - Unavailable
+Day 10 - [here](10.md)
 
 Day 11 - Unavailable
 
