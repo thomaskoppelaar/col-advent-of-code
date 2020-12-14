@@ -68,7 +68,7 @@ Day 12 - [here](12.md)
 
 Day 13 - [here](13.md)
 
-Day 14 - Unavailable
+Day 14 - [here](14.md)
 
 Day 15 - Unavailable
 
