@@ -2,7 +2,7 @@
 
 {description}
 
-## Requirements
+## Task
 
 ## Example
 

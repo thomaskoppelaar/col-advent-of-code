@@ -72,7 +72,7 @@ Day 14 - [here](14.md)
 
 Day 15 - [here](15.md)
 
-Day 16 - Unavailable
+Day 16 - [here](16.md)
 
 Day 17 - Unavailable
 
