@@ -80,7 +80,7 @@ Day 18 - [here](18.md)
 
 Day 19 - [here](19.md)
 
-Day 20 - Unavailable
+Day 20 - [here](20.md)
 
 Day 21 - Unavailable
 
