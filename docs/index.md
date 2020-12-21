@@ -20,12 +20,6 @@ The milestones are as follows:
 
 1 complete: 25 points
 ```
-## Leaderboards (WIP)
-
-
-The leaderboards showcase all the beautiful people that have completed challenges. This is purely for vanity reasons, and totally not for creating competition. 
-
-You get no extra points for reaching a high place, only bragging rights :P
 
 ## Submissions
 
