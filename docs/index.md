@@ -82,7 +82,7 @@ Day 19 - [here](19.md)
 
 Day 20 - [here](20.md)
 
-Day 21 - Unavailable
+Day 21 - [here](21.md)
 
 Day 22 - Unavailable
 
