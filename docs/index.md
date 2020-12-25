@@ -84,4 +84,4 @@ Day 23 - [here](23.md)
 
 Day 24 - [here](24.md)
 
-Day 25 - Unavailable
+Day 25 - [here](25.md)
