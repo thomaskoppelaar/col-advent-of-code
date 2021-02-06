@@ -1,8 +1,6 @@
 # Cave of Linguists - Tech Club Advent of Code
 
-It is alive and kicking baby
-
-`If you're confused as to what the Cave of Linguists is: go to` https://discord.gg/cave-of-linguists
+It's alive and well
 
 ## Premise
 
@@ -23,7 +21,7 @@ The milestones are as follows:
 
 ## Submissions
 
-You'll submit your code by going to [this link](https://docs.google.com/forms/d/1SsjQ2lDbAs_g1H49ZS44y6Tw1KuX3sM9f6GKW_YaNaI). 
+You'll submit your code by going to [Dead link](). 
 
 Rules for submission:
 - You can submit challenges at any given time, even earlier ones.
